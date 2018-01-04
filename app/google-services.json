@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481492137352",
+    "firebase_url": "https://sosyalmedya-41ea8.firebaseio.com",
+    "project_id": "sosyalmedya-41ea8",
+    "storage_bucket": "sosyalmedya-41ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481492137352:android:51dcd2084bfde17a",
+        "android_client_info": {
+          "package_name": "socialnetwork.sosyalmedya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481492137352-555brvq0130unbsdm9jq2ms80dmdug96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "socialnetwork.sosyalmedya",
+            "certificate_hash": "c22b6adbf01875fcb262d0b58a152bcd97bdbecf"
+          }
+        },
+        {
+          "client_id": "481492137352-pebqnokfb00pti8gejmm28qvpbbij44s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcA85blK4By-EgAmsCaZNUrlzcM0j6LcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481492137352-pebqnokfb00pti8gejmm28qvpbbij44s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
